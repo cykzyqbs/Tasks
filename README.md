@@ -22,4 +22,5 @@ https://github.com/cykzyqbs/Tasks/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8
 
 3.JavaScript 初步学习笔记 https://github.com/cykzyqbs/Tasks/blob/main/JavaScrip%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0.md  
  
+4.自创页面 https://github.com/cykzyqbs/Tasks/blob/main/%E9%A1%B5%E9%9D%A2.html  
 
