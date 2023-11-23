@@ -20,7 +20,8 @@ https://github.com/cykzyqbs/Tasks/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8
 2.CSS   初步学习笔记https://github.com/cykzyqbs/Tasks/blob/main/CSS%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0.md  
 
 
-3.JavaScript  
+3.JavaScript 初步学习笔记 https://github.com/cykzyqbs/Tasks/blob/main/JavaScrip%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0.md  
+
 
 4.学习使用Github的Pages功能展示你的静态页面  
 
