@@ -26,7 +26,7 @@ https://github.com/cykzyqbs/Tasks/blob/main/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8
 
 阶段三
 
-1.新思路招生网址复刻 https://github.com/cykzyqbs/cykzyqbs.github.io/blob/main/%E6%96%B0%E6%80%9D%E8%B7%AF%E7%BD%91%E5%9D%80%E6%8B%9B%E7%94%9F%E5%A4%8D%E5%88%BB/%E6%96%B0%E6%80%9D%E8%B7%AF%E6%8B%9B%E6%96%B0%E7%BD%91%E5%9D%80%E5%A4%8D%E5%88%BB.html
+1.新思路招生网址复刻 file:///C:/Users/Lenovo/Desktop/%E6%96%B0%E6%80%9D%E8%B7%AF%E7%BD%91%E5%9D%80%E6%8B%9B%E7%94%9F%E5%A4%8D%E5%88%BB/%E7%BD%91%E5%9D%80%E5%A4%8D%E5%88%BB.html.html
 
 
 
